@@ -5,6 +5,7 @@ Name: Makawitage Chehara Chamindee Perera
 Time Taken: 20 hours
 
 Note: I have used the Firebase realtime database to store the calendar events. I have set the firebase database permissions to true and access public to make it easy for you to check the database. I would attach the firebase link here.
+I have also added the "hradminexecutive@xiteb.com" email as an viewer so, you can view the firebase databse using this email.
 
 Firebase link: "https://console.firebase.google.com/project/calendar-application-9ca4f/database/calendar-application-9ca4f-default-rtdb/data"
 
